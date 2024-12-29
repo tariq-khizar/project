@@ -1,0 +1,113 @@
+.w-100{
+    height: 1000px;
+}
+.container2 image-width-text{
+    position: relative;
+}
+.container img{
+    height: 200px;
+    width: 285px;
+}
+.container2 img{
+    height: 600px;
+    width: 420px;
+    float: left;
+    border-radius: 10px;
+    border:3px solid rgb(19, 19, 19);
+    margin-right: 100px; 
+}
+.container2 p{
+    color: rgb(184, 152, 184);
+    font-size: xx-large;
+    padding: 20px;
+    margin: 20px;
+}
+.container2 h1{
+    color: rgb(227, 10, 247);
+    padding: 20px;
+    margin: 20px;
+}
+.container3 image-with-text {
+    position: relative;
+}
+.container3 img {
+    height: 600px;
+    width: 420px;
+    float: right;
+    border-radius: 10px;
+    border:3px solid rgb(15, 15, 15);
+}
+.container3 p{
+    color: rgb(184, 152, 184);
+    font-size: xx-large;
+    padding: 20px;
+    margin: 20px;
+}
+.container3 h1{
+    color: rgb(227, 10, 247);
+    padding: 20px;
+    margin: 20px;
+}
+.container4 image-with-text{
+    position: relative;
+}
+.container4 img{
+    height: 600px;
+    width: 420px;;
+    float: left;
+    border-radius: 10px;
+    border:3px solid rgb(0, 0, 0);
+    margin-right: 100px;
+}
+.container4 p{
+    color: rgb(184, 152, 184);
+    font-size: xx-large;
+    padding: 20px;
+    margin: 20px;
+}
+.container4 h1{
+    color: rgb(227, 10, 247);
+    padding: 20px;
+    margin: 20px;
+}
+.container5 image-with-text{
+    position: relative;
+}
+.container5 img{
+    height: 600px;
+    width: 420px;
+    float: right;
+    border-radius: 10px;
+    border:3px solid rgb(10, 10, 10);
+}
+.container5 p{
+    color: rgb(184, 152, 184);
+    font-size: xx-large;
+    padding: 20px;
+    margin: 20px;
+}
+.container5 h1{
+    color: rgb(227, 10, 247);
+    padding: 20px;
+    margin: 20px; 
+}
+.container6{
+        width: px;
+        height: 400px;
+        background-position: center;
+        background-size: cover;
+        background-image: url(caraousal.avif);
+        background-attachment: fixed;
+        color: aliceblue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.event{
+    height: 300px;
+    width: 100%;
+    color: blue;
+}
+.body{
+    background-color: blue;
+}
